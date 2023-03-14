@@ -1,0 +1,10 @@
+geopandas
+keras
+matplotlib
+numpy
+opencv_python
+pandas
+rasterio
+scikit_learn
+Shapely
+tensorflow
